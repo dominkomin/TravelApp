@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".TravelActivity">
+
+    <item
+        android:id="@+id/PricesMenuItem"
+        android:orderInCategory="100"
+        android:title="@string/prices"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/HistoryMenuItem"
+        android:orderInCategory="100"
+        android:title="@string/history"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/SettingsMenuItem"
+        android:orderInCategory="100"
+        android:title="@string/settings"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/InviteFriendsMenuItem"
+        android:orderInCategory="100"
+        android:title="@string/invite"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/NotifyFriendsMenuItem"
+        android:orderInCategory="100"
+        android:title="@string/notify"
+        app:showAsAction="ifRoom"/>
+</menu>

@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="dk.itu.mmad.travelApp.activities.MapActivity">
+    <item
+        android:id="@+id/MapMenuItem"
+        android:orderInCategory="100"
+        android:title="@string/done"
+        app:showAsAction="always"/>
+</menu>

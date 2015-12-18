@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Trl App</string>
+    <string name="action_settings">TravelApp</string>
+    <string name="check_in_text">Enter check-in station</string>
+    <string name="check_out_text">Enter check-out station</string>
+    <string name="check_out_button">Check-out</string>
+    <string name="check_in_button">Check-in</string>
+    <string name="title_activity_station_list">StationListActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="select">Select</string>
+    <string name="title_activity_browser">BrowserActivity</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_price">Prices</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="history">History</string>
+    <string name="prices">Prices</string>
+    <string name="settings">Settings</string>
+    <string name="position">Position</string>
+    <string name="done">Done</string>
+    <string name="invite">Invite</string>
+    <string name="SmsInvite">Hey, please download this great new app, The Travel App!</string>
+    <string name="SmsInviteNotify">Hey, I have installed this great new app!</string>
+    <string name="notify">Notify</string>
+
+    <string-array name="valuesCount">
+        <item name="5">5</item>
+        <item name="10">10</item>
+        <item name="15">15</item>
+        <item name="20">20</item>
+        <item name="25">25</item>
+        <item name="30">30</item>
+        <item name="35">35</item>
+        <item name="40">40</item>
+    </string-array>
+
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_invite">InviteActivity</string>
+
+</resources>
